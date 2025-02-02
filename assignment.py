@@ -7,7 +7,8 @@ def format_string(name, age):
     Returns:
         str: Formatted string
     """
-    return(f"my name is {name} and I am {age} Years old!")
+    return f"My name is {name} and I am {age} Years old"
+# Example usage
 print(format_string("Sunita", 45))
 
 
