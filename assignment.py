@@ -8,8 +8,8 @@ def format_string(name, age):
         str: Formatted string
     """
     return f"My name is {name} and I am {age} Years old"
-# Example usage
-print(format_string("Sunita", 45))
+print(format_string("Sunita",45))
+
 
 
 def conditional_check(number):
